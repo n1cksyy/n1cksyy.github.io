@@ -10,7 +10,7 @@
 }
 
 .header{
-	background: url(https://s3.gaming-cdn.com/images/products/4211/orig/grand-theft-auto-v-premium-online-edition-premium-online-edition-pc-game-rockstar-cover.jpg?v=1652713683);
+	background: url(https://img.mercedes-benz-kiev.com/data/purchase/e-class-limousine/0252620049/mercedes-benz-e-class-limousine-1.jpg);
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
@@ -27,7 +27,7 @@
 }
 
 .overlay div{
-	color: white;
+	color: black;
 	position: absolute;
 	top: 30%;
 	min-width: 100%;
@@ -83,3 +83,4 @@
 .feedback .text-center{
 	align-self: center;
 }
+
